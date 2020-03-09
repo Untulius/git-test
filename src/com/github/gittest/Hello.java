@@ -5,4 +5,7 @@ public class Hello {
         System.out.println("Hello, world");
         System.out.println("new string in master branch");
     }
+    public void newMethod() {
+        System.out.println("new line in feature-newmethod branch");
+    }
 }
