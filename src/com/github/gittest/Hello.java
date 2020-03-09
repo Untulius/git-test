@@ -7,5 +7,6 @@ public class Hello {
     }
     public void newMethod() {
         System.out.println("new line in feature-newmethod branch");
+        System.out.println("new line from feature-newLineInNewMethod branch");
     }
 }
